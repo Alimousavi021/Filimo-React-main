@@ -9,4 +9,5 @@ a little Reactstrap
 
 Hope you enjoy!
 
-live link : https://filimo-react-main-31fx.vercel.app/
+live link versel : https://filimo-react-main-31fx.vercel.app/
+live link host : http://filimo.epidemic-calculator.info/
